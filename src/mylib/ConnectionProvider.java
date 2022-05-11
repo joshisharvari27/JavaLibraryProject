@@ -16,7 +16,7 @@ public class ConnectionProvider {
     static String user = "root";
     /** static variable of type String
      * stores the password */
-    static String pass = "Chikkagubbi@8495";
+    static String pass = "****"; //password of the user
 
     /** loads the jdbc driver*/
     public static void connect(){
